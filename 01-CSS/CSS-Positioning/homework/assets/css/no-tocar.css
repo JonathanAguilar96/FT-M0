@@ -73,6 +73,7 @@ body {
   position: relative;
   background-color: black;
   display: flex;
+  z-index: 100;
 }
 
 .textoElemento {
