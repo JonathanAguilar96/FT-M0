@@ -1,0 +1,2 @@
+¿ Que es un array?
+un arreglo es una estructura que almacena multiples variables de distintos tipos,un ejemplo en la vida real de un arreglo seria un mueble con varios cajones en el, en estos cajones podriamos guardar cualquier cosa.

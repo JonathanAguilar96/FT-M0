@@ -1,0 +1,11 @@
+¿que es un for?
+el for es un bloque donde nosotros tenemos la ventaja que podemos marcar cuantas veces puede iterar, nos sirve para automatizar procesos y hacer el codigo mas eficiente, por ejemplo con un for podemos recorrer un array de forma facil.
+
+¿que es &&?
+El operador logico nand nos retorna dos valores posibles ya sea true o false, esta nos devuelve true solamente si todas las condiciones se cumplen.
+
+¿que es ||?
+el operador logico or al igual que el nand nos retorna dos valores posibles ya sea true y false. la diferencia es que el or solo neceista que un valor de la comparativa sea verdadero para que nos arroje true.
+
+¿ que es !?
+este es un operador logico de negacion lo que hace es por ejemplo si el resultado es true el nos muestra el contrario en este caso seria false.

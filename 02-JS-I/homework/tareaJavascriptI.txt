@@ -1,0 +1,19 @@
+¿ que es una variable?
+una variable es un espacio de memoria reservado para usar ya sea en el momento o despues. lo podemos comparar a una caja en ella podemos guardar lo que queramos en este caso seria numero palabras etc..
+
+¿ que es un string?
+un string es una serie de caracteres unidos entre si con la finalidad de armar una palabra.
+
+¿qu es una funcion, argumentos y return?
+una funcion es un bloque de codigo de programamos una accion para despues poder hablarla esto nos ayuda a poder avanzar mas rapido en la tarea.
+
+un argumento es una expresion para hacer validaciones o comparaciones por ejemplo mediante ella nosotros podemos decir si 100 es mayor 20.
+
+un return es una instruccion de javascript que sale de una funcion o procedimeinto y al mismo tiempo da el resultado de la misma
+ 
+¿que es un if?
+
+un if es una condicional donde nosotros podemos comprar dos datos y embase a ellos poder ejecutar una accion.
+
+¿valores booleanos?
+los valores booleanos son valores logicos que nos muestran cuando una sentencia en verdadera o falsa.
